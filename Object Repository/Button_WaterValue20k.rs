@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_WaterValue20k</name>
+   <tag></tag>
+   <elementGuidId>c2d21691-bcca-40ed-8e66-826235ec7e30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.//*[@id='LimitedWaterBackupLimit_20000']/label/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>.//*[@id='LimitedWaterBackupLimit_20000']/label/strong</value>
+   </webElementProperties>
+</WebElementEntity>

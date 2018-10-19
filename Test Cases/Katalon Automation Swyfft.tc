@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Katalon Automation Swyfft</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65934066-aff1-4895-8bd3-237b6ffc2807</testCaseGuid>
+   <variable>
+      <defaultValue>'200000'</defaultValue>
+      <description></description>
+      <id>d7c95942-b872-4293-b74c-e2775708efb8</id>
+      <masked>false</masked>
+      <name>variable_HomeValue200k</name>
+   </variable>
+   <variable>
+      <defaultValue>'20000'</defaultValue>
+      <description></description>
+      <id>8329850b-cd4a-4aea-9231-e31a84379a51</id>
+      <masked>false</masked>
+      <name>variable_HomeValue20k</name>
+   </variable>
+</TestCaseEntity>
